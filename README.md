@@ -1,7 +1,15 @@
 
-<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/4db6a6e6-59db-4419-acd2-eb5ef26281e8 width="400" height="690">
-<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/3a114a91-b07e-43a4-bcc1-d6fc7af90caf width="400" height="690">
-<img src=(https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/b8ed662d-b499-45fd-83d6-482ed003a183 width="400" height="690">
-<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/0df27a5b-773d-4665-bdee-f27f5f78a60c width="400" height="690">
-<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/979c1015-d67d-4971-83b2-a6af56c38824 width="400" height="690">
-<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/5436d10c-fd1a-4ee9-8648-7f8e19e55c73 width="400" height="690">
+<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/ce047cb2-e48c-4d7b-98dc-ff71687cf46d width="400" height="690">
+<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/92d216b3-29e0-4945-8c6c-fe2a41e67e4b width="400" height="690">
+<img src=(https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/21a37034-a805-4af5-bc6a-f7aae92a7dae width="400" height="690">
+<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/31e525cc-e72d-4ff1-9eda-394dc0c13f6d width="400" height="690">
+<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/857ea1c9-d0a4-420b-a1ed-fbad00ea52ed width="400" height="690">
+<img src=https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/6e5a643c-8725-4bd9-962a-c3c00fbbfea0 width="400" height="690">
+
+
+![1](https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/ce047cb2-e48c-4d7b-98dc-ff71687cf46d)
+![2](https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/92d216b3-29e0-4945-8c6c-fe2a41e67e4b)
+![Coffee Shop App](https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/21a37034-a805-4af5-bc6a-f7aae92a7dae)
+![4](https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/31e525cc-e72d-4ff1-9eda-394dc0c13f6d)
+![5](https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/857ea1c9-d0a4-420b-a1ed-fbad00ea52ed)
+![Coffee Shop App-2](https://github.com/ChocoChip30/TM_PROJ2/assets/155379882/6e5a643c-8725-4bd9-962a-c3c00fbbfea0)
